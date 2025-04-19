@@ -1,4 +1,5 @@
 {
     "codeQL.githubDatabase.download": "never",
-    "DockerRun.DisableAutoGenerateConfig": true
+    "DockerRun.DisableAutoGenerateConfig": true,
+    "iis.configDir": ""
 }
